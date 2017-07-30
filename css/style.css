@@ -1,0 +1,33 @@
+* {
+  font-family: "Arial"
+}
+body {
+  margin-top: 60px
+}
+
+.description { margin-top: 8px;
+font-size: 20px;}
+
+.main_title {
+  font-size: 60px;
+}
+
+img {
+  max-width:70%;
+  max-height:60%;
+  margin: auto;
+  display: block;
+  border: solid
+}
+
+.languages {text-align: center;
+margin-top: 16px;}
+
+.Github {
+  text-align: center;
+    margin-top: 46px;
+}
+
+.list {
+  margin-top: 30px;
+}
